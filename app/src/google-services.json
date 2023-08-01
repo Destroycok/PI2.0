@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "36113895712",
+    "project_id": "proyectointegra2",
+    "storage_bucket": "proyectointegra2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:36113895712:android:a915477fa874559e91c745",
+        "android_client_info": {
+          "package_name": "com.example.uploadimage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "36113895712-ec2gvbrsrkorn01636s62f2hlvj4ekr5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAU6V06WDVlqYB6gHy64LVoauMfv9_gCRo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "36113895712-ec2gvbrsrkorn01636s62f2hlvj4ekr5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
